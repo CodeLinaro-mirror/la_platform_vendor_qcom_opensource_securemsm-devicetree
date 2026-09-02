@@ -12,5 +12,6 @@
 	model = "Qualcomm Technologies, Inc. SECA QAM Gunyah VM";
 	compatible = "qcom,seca", "qcom,qam";
 	qcom,msm-id = <742 0x10000>, <742 0x10001>;
-	qcom,board-id = <0x00010019 0x0>, <0x00010025 0x0>;
+	qcom,board-id = <0x00010019 0x0>, <0x00010025 0x0>,
+			<0x00010019 0x1>, <0x00010025 0x1>;
 };
